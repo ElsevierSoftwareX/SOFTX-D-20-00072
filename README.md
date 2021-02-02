@@ -1,6 +1,6 @@
- ##http://www.midaco-solver.com/
+http://www.midaco-solver.com/
  
- How to run MIDACO in Python
+How to run MIDACO in Python
 
 Step 1	Download MIDACO python gateway midaco.py and remove .txt extension
 Step 2	Download appropriate library file midacopy.dll or midacopy.so
